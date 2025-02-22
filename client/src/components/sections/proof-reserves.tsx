@@ -22,7 +22,7 @@ export function ProofReserves() {
     },
     {
       title: "Real-Time Updates",
-      description: "On-chain data provides transparent, up-to-the-minute reserve status.",
+      description: "On-chain data provides transparent up-to-the-minute reserve status.",
       icon: CheckCircle,
       color: "text-purple-500"
     }
